@@ -5,5 +5,7 @@
 <html>
 <body>
 <img src="images/img1.PNG" alt="view" style="width:304px;height:228px;">
+<hr>
+<img src="images/img2.PNG" alt="view" style="width:304px;height:228px;">
 </body>
 </html>
