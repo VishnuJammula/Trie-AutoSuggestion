@@ -4,6 +4,6 @@
 <p>All the retrieved words are then displayed using a JList</p>
 <html>
 <body>
-<img src="images/img1.ong" alt="view" style="width:304px;height:228px;">
+<img src="images/img1.PNG" alt="view" style="width:304px;height:228px;">
 </body>
 </html>
