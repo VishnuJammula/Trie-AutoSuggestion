@@ -10,7 +10,7 @@
 </body>
 <hr>
 <video width="300" height="200" controls="false" autoplay="autoplay">
-<source src="images/GithubTrie.wmv" type="video/wmv"/>
+<source src="images/GithubTrie" type="video/mp4"/>
 </video> 
 </body>
 </html>
