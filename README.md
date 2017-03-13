@@ -8,4 +8,9 @@
 <hr>
 <img src="images/img2.PNG" alt="view" style="width:304px;height:228px;">
 </body>
+<hr>
+<video width="300" height="200" controls="false" autoplay="autoplay">
+<source src="images/GithubTrie.wmv" type="video/wmv"/>
+</video> 
+</body>
 </html>
