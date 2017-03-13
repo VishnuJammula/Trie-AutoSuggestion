@@ -8,7 +8,7 @@
 <img src="images/img2.PNG" alt="view" style="width:304px;height:228px;">
 <hr>
 <video width="400" height="400" controls="false" autoplay="autoplay">
-<source src="Trie-AutoSuggestion/images/gv.mp4" type="video/mp4">
+<source src="Trie-AutoSuggestion/images/gv.mp4" type="video/mp4"/>
 </video> 
 </body>
 </html>
