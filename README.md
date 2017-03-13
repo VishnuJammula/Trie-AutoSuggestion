@@ -1,4 +1,4 @@
 # Trie-AutoSuggestion
-<video width="400" controls>
-  <source src="GithubTrie.wmv" type="video/wmv">
+<video width="400">
+  <source src="GithubTrie.mp4" type="video/mp4" controls="false">
 </video>
