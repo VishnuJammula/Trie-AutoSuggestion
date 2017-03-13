@@ -7,8 +7,7 @@
 <hr>
 <img src="images/img2.PNG" alt="view" style="width:304px;height:228px;">
 <hr>
-<video width="400" height="400" controls="false" autoplay="autoplay">
-<source src="Trie-AutoSuggestion/images/gv.mp4" type="video/mp4"/>
-</video> 
+<img src="images/gv.gif" alt="view" style="width:304px;height:228px;">
+<hr>
 </body>
 </html>
